@@ -3,7 +3,7 @@
 
 ## Установка ##
 - Склонить репозиторий:
-```git clone https://github.com/sabure-dev/super-jarvis```
+```git clone https://github.com/sabure-dev/super-jarvis && cd super-jarvis```
 
 - Создать виртуальное окружение:
 ```uv venv```
